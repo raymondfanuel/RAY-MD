@@ -1,6 +1,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> RAY-MD </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
 
@@ -17,10 +17,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/raymondfanuel"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
+<a href="https://github.com/raymondfanuel?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/raymondfanuel?label=Followers&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
