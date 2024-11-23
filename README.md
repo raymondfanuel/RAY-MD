@@ -17,7 +17,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/raymondfanuel"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/raymondfanuel"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-RAYMOND TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/raymondfanuel?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/raymondfanuel?label=Followers&style=social"></a>
