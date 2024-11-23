@@ -1,5 +1,5 @@
 
-  <a><img src='https://i.ibb.co/DQtjsNY/file-2835.jpg' width='600px'/></a>
+  <a align="center"><img src='https://i.ibb.co/DQtjsNY/file-2835.jpg' width='600px'/></a>
 <h1 align="center"> RAY-MD </h1>
 
 
