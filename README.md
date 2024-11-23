@@ -25,7 +25,6 @@
 <a href="https://github.com/raymondfanuel/RAY-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/raymondfanuel/RAY-MD?style=social"></a>
 <a href="https://github.com/raymondfanuel/RAY-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/raymondfanuel/RAY-MD?label=Watching&style=social"></a>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
   
 ## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
 
@@ -38,7 +37,6 @@
 <a href="https://github.com/raymondfanuel/RAY-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
 
 ### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
 
@@ -59,7 +57,7 @@
 <a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
+
 
 **(B) HOST ON TALKDROVE**
 <details>
@@ -69,8 +67,6 @@
 <a href="https://youtu.be/PCqq34PJkAA?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
-
 **(C) RENDER DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
@@ -78,8 +74,6 @@
 
 <a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
 </details>
-
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
 
 **(D) KOYEB DEPLOYMENT**
 <details>
@@ -89,8 +83,6 @@
 <a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2Fgifted&branch=main&name=gifted-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
-
 **(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
@@ -99,7 +91,6 @@
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
 
 **(F) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
 <details>
@@ -109,15 +100,12 @@
 <a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
 
 **(G) SCALINGO DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
 <a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
-
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
 
 
 ### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
@@ -128,10 +116,8 @@
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
-
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![RAY-MD](https://api.star-history.com/svg?repos=raymondfanuel/RAY-MD&type=Timeline)](#)
+[![RAY-MD](https://api.star-history.com/svg?repos=raymondfanuel&type=Timeline)](#)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
