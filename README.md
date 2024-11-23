@@ -1,7 +1,6 @@
-<center>
-  <a><img src='https://i.ibb.co/DQtjsNY/file-2835.jpg' width='500px'/></a>
+
+  <a><img src='https://i.ibb.co/DQtjsNY/file-2835.jpg' width='600px'/></a>
 <h1 align="center"> RAY-MD </h1>
-</center>
 
 
 - Bot is Safe for Heroku so don't ask more questions
