@@ -21,9 +21,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/raymondfanuel?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/raymondfanuel?label=Followers&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
+<a href="https://github.com/raymondfanuel/RAY-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/raymondfanuel/RAY-MD?&style=social"></a>
+<a href="https://github.com/raymondfanuel/RAY-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/raymondfanuel/RAY-MD?style=social"></a>
+<a href="https://github.com/raymondfanuel/RAY-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/raymondfanuel/RAY-MD?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
