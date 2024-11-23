@@ -14,8 +14,6 @@
 
 </details>
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
-
   <p align="center">
 <a href="https://github.com/raymondfanuel"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-RAYMOND TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
