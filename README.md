@@ -35,7 +35,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/raymondfanuel/RAY-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -125,15 +125,13 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://api.giftedtech.my.id/contact) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
+[![RAY-MD](https://api.star-history.com/svg?repos=raymondfanuel/RAY-MD&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
