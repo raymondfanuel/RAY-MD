@@ -1,5 +1,5 @@
 
-<a><img src='https://imgur.com/a/LBTKObw'/></a>
+<a><img src='https://imgur.com/wdRRPEW'/></a>
 <h1 align="center"> RAY-MD </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
