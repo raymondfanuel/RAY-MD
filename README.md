@@ -115,8 +115,4 @@
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
 </details>
 
-### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
-
-[![RAY-MD](https://api.star-history.com/svg?repos=raymondfanuel&type=Timeline)](#)
-
 
