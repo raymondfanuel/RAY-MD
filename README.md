@@ -117,8 +117,9 @@
 
 ### 5. ACKNOWLEDGEMENT
 
-<details>
-  ### CREDIT TO GIFTED MD
-</details>
+<center>
+  CREDIT TO GIFTED MD
+</center>
+
 
 
