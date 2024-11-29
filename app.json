@@ -55,7 +55,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message to be sent after bot views status else leave blank",
       "required": false,
-      "value": "Status Viewed by Gifted-Md"
+      "value": "Status Viewed by RAY-MD"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true if you want bot to always read messages else leave blank",
